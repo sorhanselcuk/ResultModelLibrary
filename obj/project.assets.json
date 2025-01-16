@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\oselcuk\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sorha\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oselcuk\\source\\repos\\ResultModelLibrary\\ResultModelLibrary\\ResultModelLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\sorha\\source\\repos\\sorhanselcuk\\ResultModelLibrary\\ResultModelLibrary.csproj",
       "projectName": "ResultModelLibrary",
-      "projectPath": "C:\\Users\\oselcuk\\source\\repos\\ResultModelLibrary\\ResultModelLibrary\\ResultModelLibrary.csproj",
-      "packagesPath": "C:\\Users\\oselcuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oselcuk\\source\\repos\\ResultModelLibrary\\ResultModelLibrary\\obj\\",
+      "projectPath": "C:\\Users\\sorha\\source\\repos\\sorhanselcuk\\ResultModelLibrary\\ResultModelLibrary.csproj",
+      "packagesPath": "C:\\Users\\sorha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sorha\\source\\repos\\sorhanselcuk\\ResultModelLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\oselcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sorha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\oselcuk\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
